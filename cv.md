@@ -1,5 +1,3 @@
-https://github.com/kirpichev228/rsschool-cv
-
 # Nikita Prykhodzka
 
 ## Contacts
